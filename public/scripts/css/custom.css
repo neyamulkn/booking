@@ -1,0 +1,28 @@
+.mainbar .mainbar-nav > li > a:hover,
+ {
+  margin: 0px 15px;
+}
+
+.nav>li>a{
+	padding: 10px 25px;
+}
+.container{
+	padding: 0px !important;
+}
+
+.badge {
+
+    padding: 3px 2px;
+    background-color: #fe0707;
+    width: 18px;
+    height: 18px;
+    color: #fff;
+    position: absolute;
+    top: 12px;
+    left: 28px;
+    border-radius: 50%;
+}
+
+.nav li{
+    margin-top: 15px;
+}
